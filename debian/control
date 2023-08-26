@@ -1,0 +1,13 @@
+Source: dumphfdl
+Maintainer: Jakob Ketterl <jakob.ketterl@gmx.de>
+Section: embedded
+Priority: optional
+Rules-Requires-Root: no
+Standards-Version: 4.3.0
+Build-Depends: debhelper (>= 10), cmake, libacars-dev, pkg-config, libliquid-dev, libfftw3-dev, libglib2.0-dev, libconfig++-dev
+
+Package: dumphfdl
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Multichannel HFDL decoder
+ Multichannel HFDL decoder
