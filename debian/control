@@ -5,6 +5,9 @@ Priority: optional
 Rules-Requires-Root: no
 Standards-Version: 4.3.0
 Build-Depends: debhelper (>= 10), cmake, libacars-dev, pkg-config, libliquid-dev, libfftw3-dev, libglib2.0-dev, libconfig++-dev
+Homepage: https://github.com/szpajder/dumphfdl
+Vcs-Git: https://github.com/szpajder/dumphfdl.git
+Vcs-Browser: https://github.com/szpajder/dumphfdl
 
 Package: dumphfdl
 Architecture: any
