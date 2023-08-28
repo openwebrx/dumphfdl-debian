@@ -1,5 +1,5 @@
-dumphfdl (1.4.1-1) UNRELEASED; urgency=low
+dumphfdl (1.4.1-1) bullseye; urgency=low
 
   * Initial upload
 
- -- Jakob Ketterl <jakob.ketterl@gmx.de>  Sat, 26 Aug 2023 23:03:00 +0000
+ -- Jakob Ketterl <jakob.ketterl@gmx.de>  Mon, 28 Aug 2023 16:50:00 +0000
