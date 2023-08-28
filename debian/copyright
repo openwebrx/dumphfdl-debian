@@ -5,7 +5,7 @@ Copyright: Tomasz Lemiech <szpajder@gmail.com>
 License: GPL-3.0-or-later
 
 Files: src/fastddc.c
-  src/fastdddc.h
+  src/fastddc.h
   src/libcsdr.c
   src/libcsdr.h
 Copyright: 2014, Andras Retzler <randras@sdr.hu>
